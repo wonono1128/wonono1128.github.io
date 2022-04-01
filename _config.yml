@@ -9,18 +9,16 @@ relative_permalinks: true
 # Setup
 title:            Hyde
 tagline:          'A Jekyll theme'
-description:      
-url:              ''
-baseurl:          '/'
+url:              'https://wonono1128.github.io'
+baseurl:          'https://wonono1128.github.io'
 
 author:
   name:           'Mark Otto'
-  url:            ''
+  url:            'https://wonono1128.github.io'
 
 paginate:         5
 
 # Custom vars
 version:          2.1.0
 
-github:
-  repo:           
+
